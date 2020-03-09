@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c15f17d.chunk.css",
+    "main.js": "/static/js/main.dc1b8e37.chunk.js",
+    "main.js.map": "/static/js/main.dc1b8e37.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c70048c8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c70048c8.js.map",
+    "static/css/2.81e2c8a5.chunk.css": "/static/css/2.81e2c8a5.chunk.css",
+    "static/js/2.0a65e042.chunk.js": "/static/js/2.0a65e042.chunk.js",
+    "static/js/2.0a65e042.chunk.js.map": "/static/js/2.0a65e042.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.47c4a302bf10ed194e6a81db22b73a71.js": "/precache-manifest.47c4a302bf10ed194e6a81db22b73a71.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.81e2c8a5.chunk.css.map": "/static/css/2.81e2c8a5.chunk.css.map",
+    "static/css/main.1c15f17d.chunk.css.map": "/static/css/main.1c15f17d.chunk.css.map",
+    "static/js/2.0a65e042.chunk.js.LICENSE.txt": "/static/js/2.0a65e042.chunk.js.LICENSE.txt",
+    "static/media/Abract01.png": "/static/media/Abract01.d94aec68.png",
+    "static/media/JS1.svg": "/static/media/JS1.2d2e31cc.svg",
+    "static/media/PatrickHand-Regular.ttf": "/static/media/PatrickHand-Regular.eeb4dad6.ttf",
+    "static/media/Screenshot (124)-min.png": "/static/media/Screenshot (124)-min.399f0263.png",
+    "static/media/Screenshot (136)-min.png": "/static/media/Screenshot (136)-min.bd71ea66.png",
+    "static/media/Screenshot (224).png": "/static/media/Screenshot (224).2b1589ac.png",
+    "static/media/Screenshot (232).png": "/static/media/Screenshot (232).89c1c2e7.png",
+    "static/media/Screenshot (24)-min.png": "/static/media/Screenshot (24)-min.963e7a65.png",
+    "static/media/Screenshot (54)-min.png": "/static/media/Screenshot (54)-min.22c6e704.png",
+    "static/media/Screenshot (81)-min.png": "/static/media/Screenshot (81)-min.1c66a113.png",
+    "static/media/backgroundimg.png": "/static/media/backgroundimg.592286b9.png",
+    "static/media/banner-image.png": "/static/media/banner-image.50953027.png",
+    "static/media/clip-programming.png": "/static/media/clip-programming.4877d96a.png",
+    "static/media/css3.png": "/static/media/css3.3f8e68f4.png",
+    "static/media/html5.png": "/static/media/html5.454a400c.png",
+    "static/media/react.png": "/static/media/react.6cbb89e9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c70048c8.js",
+    "static/css/2.81e2c8a5.chunk.css",
+    "static/js/2.0a65e042.chunk.js",
+    "static/css/main.1c15f17d.chunk.css",
+    "static/js/main.dc1b8e37.chunk.js"
+  ]
+}
